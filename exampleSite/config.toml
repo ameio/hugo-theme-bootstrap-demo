@@ -1,0 +1,26 @@
+baseURL = "https://demo.gethugothemes.com/bootstrapDemo/"
+languageCode = "en-us"
+title = "DEMO | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "hugo-theme"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+
+[[Params.listeLangues]]
+code = "en"
+
+# meta data
+author = "demo"
+description = "This is meta description"
