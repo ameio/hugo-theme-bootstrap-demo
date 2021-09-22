@@ -1,8 +1,7 @@
 name = "Bootstrap Hugo"
-license = "MIT"
 homepage = "https://gethugothemes.com/products/bootstrapDemo/"
-demosite = "https://demo.gethugothemes.com/bootstrapDemo/"
+# demosite = "https://demo.gethugothemes.com/bootstrapDemo/"
 tags = ['landing-page', 'business', 'agency-template', 'multilingual', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'company', 'projects', 'dark', 'creative', 'contact-form', 'custom-themes', 'mobile', 'flexbox', 'minimalistic', 'gethugothemes']
-features = ['bootstrap4','responsive','multilingual']
+features = ['bootstrap4','responsive']
 min_version = "0.62.0"
 
