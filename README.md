@@ -1,4 +1,4 @@
-<h1 align=center>Hugo Bootstrap Theme With Slider | <a target="_blank" href="https://demo.gethugothemes.com/bootstrapDemo" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnavigator%2Fen%2F">Page Speed (87%)</a></h1>
+<h1 align=center>Hugo Bootstrap Theme With Slider | </h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.0" alt="Contributors">

@@ -1,4 +1,3 @@
-baseURL = "https://localhost:1313/bootstrapDemo/"
 languageCode = "en-us"
 title = "DEMO | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "hugo-theme-bootstrap-demo"
