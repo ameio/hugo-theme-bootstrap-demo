@@ -1,4 +1,4 @@
-<h1 align=center>Hugo Bootstrap Theme With Slider | </h1>
+<h1 align=center>hugo-theme-bootstrap-demo</h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.0" alt="Contributors">
@@ -14,22 +14,25 @@
       alt="follow on Twitter"></a>
 </p>
 
+## hugo-theme-bootstrap-demo
+---
+This will show you how to build a Bootstrap theme With Hugo.
+
+We will start with a simple Hugo Project and add Bottstrap HTML page, and then add more and more components, until we have a fully functional, personal and responsive website.
+
+You are free to modify, save, share, use or do whatever you want with it:
+
+## Quick Start
+---
+1. Add the repository into your Hugo Project repository as a submodule, git submodule add git clone git@github.com:gethugothemes/hugo-demo.git themes/hugo-theme-bootstrap-demo.
+2. Configure your config.toml. You can either use this minimal configuration as a base, or look for a complete explanation about all configurations here. The config.toml inside the exampleSite is also a good reference.
+3. Build your site with hugo serve and see the result at http://localhost:1313/.
+
 ## Features
+---
 - homepage (1)
 - Google analytics support
 - Netlify settings predefine
 - Contact form Support
 - slider setup
-
-## Local development
-
-```bash
-# clone the repository
-git clone git@github.com:gethugothemes/hugo-demo.git
-
-# cd in the project directory
-$ cd navigator-hugo/exampleSite/
-
-# Start local dev server
-$ hugo server --themesDir ../..
-```
+- Responsive
